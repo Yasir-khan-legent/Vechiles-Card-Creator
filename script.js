@@ -53,7 +53,7 @@ document.getElementById("url").value = "";
 
 })
 function buy() {
-    alert("Phyly Okat Bana Phir Lyna 😏😜🤣");
+    alert("No Money");
   }
 
   function edit(e) {
